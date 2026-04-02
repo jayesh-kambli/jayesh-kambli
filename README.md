@@ -1,29 +1,43 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,100:00FFAA\&height=220\&section=header\&text=Jayesh%20Kambli\&fontSize=45\&fontColor=ffffff)
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=00FFAA\&size=25\&center=true\&vCenter=true\&width=600\&lines=Minecraft+Plugin+Developer;Folia+Specialist;Performance+Focused;Web+Developer)
+![Typing](https://readme-typing-svg.herokuapp.com?color=00FFAA\&size=25\&center=true\&vCenter=true\&width=600\&lines=Java+Developer;Minecraft+Plugin+Specialist;Full+Stack+Web+Developer;Performance+Focused)
 
 ---
 
 # 👋 Hi, I'm Jayesh
 
-🚀 Java Developer | Minecraft Plugin Specialist | Web Developer
+🚀 Java Developer | Minecraft Plugin Specialist | Full Stack Web Developer
 
-💻 I build high-performance Minecraft plugins used in real servers and modern web applications.
+💻 I build high-performance Minecraft plugins and modern scalable web applications.
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Building scalable Minecraft systems & plugins
+* 🔭 Building real-world Minecraft plugins used in production servers
 * 🌐 Web Developer at Videxa
-* ⚙️ Focused on performance, concurrency & clean architecture
-* 🌱 Learning advanced system design
+* ⚙️ Focused on performance, scalability & concurrency
+* 🧠 Solved 100+ DSA problems
 
 ---
 
 ## 🛠 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=java,js,html,css,postgres,git,github)
+### 💻 Backend & Systems
+
+![Skills](https://skillicons.dev/icons?i=java,postgres,linux)
+
+### 🌐 Frontend
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)
+
+### ⚙️ Tools & APIs
+
+![Skills](https://skillicons.dev/icons?i=git,github)
+
+* 🔗 REST APIs
+* 🌍 HTTP fundamentals
+* 📦 JSON
 
 ---
 
@@ -46,35 +60,28 @@
 
 💼 Real-world products used by Minecraft servers
 
-* 🔹 Multi Tool Miner (Economy Plugin)
-* 🔹 Sell Wand (Bulk Chest Selling Tool)
-* 🔹 Order GUI (Marketplace System)
-* 🔹 Smart Random Orders Generator (+ Addon)
-* 🔹 KeyAllPro (Paper & Folia)
-* 🔹 ClearLag (Paper & Folia)
-* 🔹 HopperLimiter (Paper & Folia)
+* 🔗 Multi Tool Miner (Economy Plugin)
+  https://builtbybit.com/resources/multi-tool-miner-economy-plugin.81849/
+
+* 🔗 Sell Wand (Bulk Chest Selling Tool)
+  https://builtbybit.com/resources/sell-wand-bulk-chest-selling-tool.82031/
+
+* 🔗 Order GUI (Marketplace System)
+  https://builtbybit.com/resources/order-gui-plugin-marketplace-system.82221/
+
+* 🔗 Smart Random Orders Generator (+ Addon)
+  https://builtbybit.com/resources/smart-random-orders-generator-addon.82949/
+
+* 🔗 KeyAllPro (Paper & Folia)
+  https://builtbybit.com/resources/keyallpro-folia-paper.101473/
+
+* 🔗 ClearLag (Paper & Folia)
+  https://builtbybit.com/resources/clearlag-folia-paper.101491/
+
+* 🔗 HopperLimiter (Paper & Folia)
+  https://builtbybit.com/resources/hopperlimiter-paper-folia.101499/
 
 ⚡ Focus: Performance • Folia Support • Economy Systems
-
----
-
-## 🚀 Featured Work
-
-### 🔹 HopperLimiter
-
-> Per-chunk hopper cap to eliminate lag
-
-* ⚡ TPS optimization
-* 🌐 Full Folia support
-* 🔄 Auto overflow handling
-
-### 🔹 KeyAllPro
-
-> Automated reward distribution
-
-* 🎖 Per-rank rewards
-* 📊 Bossbar countdown
-* 🔗 PlaceholderAPI
 
 ---
 
@@ -91,9 +98,9 @@
 ## 🚀 What I Specialize In
 
 * ⚡ High-performance systems
-* 🔄 Concurrency (Folia-ready)
+* 🔄 Concurrency (Folia-ready architecture)
 * 💰 Economy plugins
-* 🌐 Scalable web apps
+* 🌐 Full-stack web apps
 
 ---
 
