@@ -64,4 +64,4 @@
 ## 🔗 Connect
 
 * 🌐 https://videxa.in
-* 💬 Discord: yourtag
+* 💬 Discord: jayesh4465
