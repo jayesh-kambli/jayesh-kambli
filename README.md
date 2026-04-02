@@ -1,15 +1,22 @@
 # 👋 Hi, I'm Jayesh
 
-🚀 Minecraft Plugin Developer | Java | Paper & Folia
+🚀 Java Developer | Minecraft Plugin Specialist | Web Developer
 
-- 🔭 Currently working on: HopperLimiter, KeyAllPro
-- 🌱 Learning: Advanced concurrency & performance optimization
-- 💬 Ask me about: Minecraft plugins, Paper API, Folia
-- ⚡ Fun fact: I optimize servers like crazy 😄
+💻 I build high-performance Minecraft plugins and modern web applications.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Paper](https://img.shields.io/badge/Minecraft-Paper-blue?style=for-the-badge)
-![Folia](https://img.shields.io/badge/Folia-Supported-green?style=for-the-badge)
+---
+
+## 🧠 About Me
+
+- 🔭 Currently working on:
+  - HopperLimiter (Lag optimization plugin)
+  - KeyAllPro (Automated reward system)
+
+- 🌐 Web Developer at Videxa  
+- ⚙️ Focused on performance, scalability & clean architecture  
+- 🌱 Learning advanced concurrency & system design  
+
+---
 
 ## 🧩 Featured Projects
 
@@ -17,24 +24,46 @@
 > Per-chunk hopper cap to eliminate lag (Paper & Folia)
 
 - ⚡ Zero config
-- 🌐 Folia support
-- 🔄 Auto cleanup
+- 🌐 Full Folia support
+- 🔄 Auto overflow cleanup
+
+---
 
 ### 🔹 KeyAllPro
-> Automated crate key drops
+> Automated crate key distribution system
 
 - 🎖 Per-rank rewards
 - 📊 Bossbar countdown
-- 🔗 PlaceholderAPI support
+- 🔗 PlaceholderAPI integration
+
+---
+
+## 🌐 Web Development
+
+- 🏢 Working with Videxa
+- 🌍 Building modern, responsive web apps
+- ⚡ Focus: performance & user experience
+
+---
+
+## 🛠 Tech Stack
+
+- 💻 Java (Paper, Folia API)
+- 🌐 HTML, CSS, JavaScript
+- ⚙️ Backend & system design
+- 🛢 Databases (PostgreSQL)
+
+---
+
+## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-## 🛠 Currently Building
+---
 
-- ⚙️ High-performance server plugins
-- 📦 Economy systems
-- 🔄 Lag optimization tools
+## 🔗 Connect
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&lines=Minecraft+Plugin+Developer;Folia+Support+Expert;Performance+Focused)
+- 🌐 Portfolio: https://videxa.in
+- 💬 Discord: yourtag
