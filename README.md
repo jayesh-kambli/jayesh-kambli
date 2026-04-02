@@ -30,7 +30,7 @@
 ## 🚀 Work & Projects
 
 * 🧩 Minecraft Plugins (Economy, Performance, Folia-ready)
-* 🌐 Web Development at Videxa(https://github.com/jayesh-kambli)
+* 🌐 Web Development at Videxa(https://videxa.in)
 
 👉 **View detailed projects:**
 ➡️ [All Plugins & Details](./projects.md)
