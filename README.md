@@ -35,28 +35,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-### 🔹 HopperLimiter
-
-> Per-chunk hopper cap to eliminate lag
-
-* ⚡ Optimized for TPS stability
-* 🌐 Full Folia support
-* 🔄 Auto overflow handling
-
----
-
-### 🔹 KeyAllPro
-
-> Automated reward distribution system
-
-* 🎖 Per-rank rewards
-* 📊 Bossbar countdown
-* 🔗 PlaceholderAPI support
-
----
-
 ## 🌐 Web Development
 
 🏢 Working with Videxa
@@ -67,20 +45,11 @@
 
 ---
 
-## 🛠 Tech Stack
-
-* 💻 Java (Paper, Folia API)
-* 🌐 HTML, CSS, JavaScript
-* ⚙️ Backend Systems & APIs
-* 🛢 PostgreSQL
-
----
-
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=jayesh_kambli\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=jayesh_kambli\&theme=tokyonight)
 
 ---
 
