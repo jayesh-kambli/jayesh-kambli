@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Jayesh
 
-🚀 Java Developer | Minecraft Plugin Specialist | Full Stack Web Developer
+🚀 Java Developer | Minecraft Plugin | Full Stack Web Developer
 
 💻 Building high-performance Minecraft plugins & scalable web applications
 
